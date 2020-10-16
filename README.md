@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kckc0608)](https://solved.ac/kckc0608)
+
 
 <!--
 **kckc0608/kckc0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
