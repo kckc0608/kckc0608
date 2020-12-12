@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Hello
+## Hi
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kckc0608)](https://solved.ac/kckc0608)
 
 
