@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m student of Hongik Univ. in Seoul, Korea
 - 🌱 I’m currently learning Android
+- ▽  BOJ tier  ▽ 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
