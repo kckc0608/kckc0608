@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m student of Hongik Univ. in Seoul, Korea
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Android with Flutter
 - ▽  BOJ tier  ▽ 
 <!--
 - 👯 I’m looking to collaborate on ...
