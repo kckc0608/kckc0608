@@ -6,7 +6,7 @@
 Blog.Everdu (https://chinpa.tistory.com/)
 - 🌐 My Project Site ▽  
 Everdu.GA (http://everdu.ga/)
-- ▽  BOJ tier  ▽ 
+- ▽  BOJ tier  ▽  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kckc0608)](https://solved.ac/kckc0608)
 
 - ▽  Github Stat  ▽
