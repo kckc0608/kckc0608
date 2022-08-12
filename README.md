@@ -5,7 +5,7 @@
 - 🌐 My Dev Blog ▽  
 Blog.Everdu (https://chinpa.tistory.com/)
 - 🌐 My Project Site ▽  
-Everdu.GA (http://everdu.ga/)
+everdu.ga (http://everdu.ga/)
 - ▽  BOJ tier  ▽  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kckc0608)](https://solved.ac/kckc0608)
 
