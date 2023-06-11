@@ -6,7 +6,7 @@
 Blog.Everdu (https://chinpa.tistory.com/)
 
 ### 🌐 My Project Site ▽  
-~~everdu.ga (http://everdu.ga/)
+~~everdu.ga (http://everdu.ga/)~~
 
 현재 도메인 문제가 있어 [이곳](http://193.122.123.213)으로 들어와 주세요
 
