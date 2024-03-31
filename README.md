@@ -7,6 +7,14 @@
   * 👨‍🏫 홍익대학교 알고리즘 학회 HI-ARC 기초 스터디장 <sub>(2024.03 ~ 2024.05)</sub>
 
   <hr>
+  
+  ### 🌐 My Dev Blog  🌐
+  [Blog.Everdu](https://chinpa.tistory.com/)
+  
+  ### 🌐 My Web Site  🌐
+  [everdu.com](http://www.everdu.com/)
+
+  <hr>
 
   ### 🛠️ Tech Stack 🛠️
 
@@ -37,15 +45,6 @@
   <br>
   ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-  
-  <hr>
-  
-  ### 🌐 My Dev Blog  🌐
-  [Blog.Everdu](https://chinpa.tistory.com/)
-  
-  ### 🌐 My Web Site  🌐
-  [everdu.com](http://www.everdu.com/)
 
   <hr>
   
