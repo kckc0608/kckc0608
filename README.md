@@ -4,7 +4,7 @@
 
   <div align="center">
       🏫 홍익대학교 컴퓨터공학과 <sub>(2020.03 ~ 2026.02)</sub><br/>
-      🖥️ GDSC 개발팀 BE <sub>(2024.09 ~ now)</sub><br/>
+      🖥️ GDSC Hongik 개발팀 와우디벨로퍼스 BE <sub>(2024.09 ~ now)</sub><br/>
       👨‍🏫 GDSC Hongik 2024-2 초급 백엔드 스터디 멘토 <sub>(2024.09 ~ 2024.11)</sub><br/>
       👨‍🏫 홍익대학교 알고리즘 학회 HI-ARC 2024-2 초급 스터디장 <sub>(2024.09 ~ 2024.11)</sub><br/>
       <br/>
