@@ -1,9 +1,11 @@
-<div align="center">
+<div align="left">
   
-  ## 안녕하세요!👋 
+  ### Experience
 
-  <div align="center">
-      🏫 홍익대학교 컴퓨터공학과 <sub>(2020.03 ~ 2026.02)</sub><br/>
+  <hr>
+
+  <div align="left">
+      🏫 홍익대학교 컴퓨터공학과 <sub>(2020.03 ~ 2026.02)</sub><br/><br/>
       🖥️ GDSC Hongik 개발팀 와우디벨로퍼스 BE <sub>(2024.09 ~ now)</sub><br/>
       👨‍🏫 GDSC Hongik 2024-2 초급 백엔드 스터디 멘토 <sub>(2024.09 ~ 2024.11)</sub><br/>
       👨‍🏫 홍익대학교 알고리즘 학회 HI-ARC 2024-2 초급 스터디장 <sub>(2024.09 ~ 2024.11)</sub><br/>
@@ -14,31 +16,28 @@
 
   <hr>
   
-  ### 🌐 My Dev Blog  🌐
-  [Blog.Everdu](https://chinpa.tistory.com/)
+  🌐 개발 블로그 [Blog. 에버듀](https://chinpa.tistory.com/) <br/>
+  🌐 개인 사이트 [에버듀](http://www.everdu.com/) <br/><br/>
   
-  ### 🌐 My Web Site  🌐
-  [everdu.com](http://www.everdu.com/)
+  ✉️ 이메일 kckc0608@naver.com
 
   <hr>
 
   ### 🛠️ Tech Stack 🛠️
 
   #### Language
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  <br>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  <!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
   #### Library & Framework
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  <br>
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  <!-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
+  <!-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)-->
   <!-- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) -->
 
   #### CI / CD
@@ -54,9 +53,6 @@
 
   <hr>
   
-  ### ▽  BOJ tier  ▽  
   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kckc0608)](https://solved.ac/kckc0608)
-  
-  ### ▽  Github Stat  ▽   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kckc0608)](https://github.com/anuraghazra/github-readme-stats)
 </div>
