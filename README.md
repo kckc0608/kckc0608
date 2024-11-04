@@ -1,9 +1,10 @@
 <div align="left">
   
-  🏫 홍익대학교 컴퓨터공학과 <sub>(2020.03 ~ 2026.02)</sub><br/><br/>
+  🏫 홍익대학교 컴퓨터공학과 <sub>(2020.03 ~ 2026.02)</sub><br/>
+  
   🖥️ GDSC Hongik 개발팀 와우디벨로퍼스 BE <sub>(2024.09 ~ now)</sub><br/>
-  👨‍🏫 GDSC Hongik 2024-2 초급 백엔드 스터디 멘토 <sub>(2024.09 ~ 2024.11)</sub><br/>
-  👨‍🏫 홍익대학교 알고리즘 학회 HI-ARC 2024-2 초급 스터디장 <sub>(2024.09 ~ 2024.11)</sub><br/>
+  👨‍🏫 GDSC Hongik 2024-2 초급 백엔드 스터디 멘토 <sub>(2024.09 ~ now)</sub><br/>
+  👨‍🏫 홍익대학교 알고리즘 학회 HI-ARC 2024-2 초급 스터디장 <sub>(2024.09 ~ now)</sub><br/>
   <br/>
   🖥️ 신촌연합 IT창업 동아리 CEOS 19th BE <sub>(2024.03 ~ 2024.08)</sub><br/>
   👨‍🏫 홍익대학교 알고리즘 학회 HI-ARC 2024-1 기초 스터디장 <sub>(2024.03 ~ 2024.05)</sub>
@@ -11,13 +12,11 @@
   <hr>
   
   🌐 개발 블로그 [Blog. 에버듀](https://chinpa.tistory.com/) <br/>
-  🌐 개인 사이트 [에버듀](http://www.everdu.com/) <br/><br/>
+  🌐 개인 사이트 [에버듀](http://www.everdu.com/) <br/>
   
   ✉️ 이메일 kckc0608@naver.com
 
   <hr>
-
-  ### 🛠️ Tech Stack 🛠️
 
   #### Language
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
