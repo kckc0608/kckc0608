@@ -16,7 +16,7 @@
   <hr>
   
   🌐 개발 블로그 [Blog. 에버듀](https://chinpa.tistory.com/) <br/>
-  🌐 개인 사이트 [everdu.com](http://www.everdu.com/) <br/>
+  🌐 개인 사이트 [everdu.com](https://everdu.com/) <br/>
   
   ✉️ 이메일 kckc0608@naver.com
 
