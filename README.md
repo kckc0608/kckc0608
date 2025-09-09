@@ -4,8 +4,8 @@
 
   🖥️ 홍익대학교 컴퓨터공학과 밴드학회 큰소리 웹사이트 개발 BE <sub>(2024.12 ~ now)</sub><br/>
   🖥️ GDSC Hongik 개발팀 와우디벨로퍼스 BE <sub>(2024.09 ~ now)</sub><br/>
-  🖥️ 신촌연합 IT창업 동아리 CEOS 19th BE <sub>(2024.03 ~ 2024.08)</sub><br/>
-  🖥️ GDSC Hongik 프로젝트 트랙 BE <sub>(2022.10 ~ 2023.02)</sub><br/>
+  🖥️ 신촌연합 IT창업 동아리 CEOS 19기 BE <sub>(2024.03 ~ 2024.08)</sub><br/>
+  🖥️ GDSC Hongik 프로젝트 트랙 1기 BE <sub>(2022.10 ~ 2023.02)</sub><br/>
   <br/>
   👨‍🏫 GDG Hongik 2025-1 백엔드 파트 리드 <sub>(2025.03 ~ 2025.6)</sub><br/>
   👨‍🏫 GDSC Hongik 2024-2 초급 백엔드 스터디 멘토 <sub>(2024.09 ~ 2024.12)</sub><br/>
