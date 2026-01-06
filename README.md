@@ -57,5 +57,5 @@
   <hr>
   
   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kckc0608)](https://solved.ac/kckc0608)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kckc0608)](https://github.com/anuraghazra/github-readme-stats)
+  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kckc0608)](https://github.com/pranesh-2005/github-readme-stats-fast)
 </div>
