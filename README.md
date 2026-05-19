@@ -8,7 +8,6 @@
   ✉️ 이메일 kckc0608@naver.com
   
   <br/>
-  <hr>
 
   #### Work Experience
   🏢 KIA ICT본부 <sub>(2026.08 ~)</sub><br/>
