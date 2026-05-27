@@ -19,7 +19,7 @@
   🖥️ 홍익대학교 컴퓨터공학과 밴드학회 큰소리 웹사이트 개발 BE <sub>(2024.12 ~ now)</sub><br/>
   🖥️ GDSC Hongik 개발팀 와우디벨로퍼스 BE <sub>(2024.09 ~ now)</sub><br/>
   🖥️ 신촌연합 IT창업 동아리 CEOS 19기 'AZITO' BE <sub>(2024.03 ~ 2024.08)</sub><br/>
-  🖥️ GDSC Hongik 프로젝트 트랙 1기 '육아품앗이' BE <sub>(2022.10 ~ 2023.02)</sub><br/>
+  🖥️ GDSC Hongik 프로젝트 트랙 1기 '육아품앗이' BE <sub>(2023.10 ~ 2024.02)</sub><br/>
   <br/>
 
   #### Education & Activities
