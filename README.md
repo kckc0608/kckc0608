@@ -5,7 +5,8 @@
   🌐 개발 블로그 [Blog. 에버듀](https://chinpa.tistory.com/) <br/>
   🌐 개인 사이트 [everdu.com](https://everdu.com/) <br/>
   
-  ✉️ 이메일 kckc0608@naver.com
+  ✉️ 이메일 kckc0608@naver.com <br/>
+  📑 이력서 [en](https://typst.app/project/rMj3xkB7ewAkmIoYjpdrNf)
   
   <br/>
 
