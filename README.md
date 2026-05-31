@@ -6,7 +6,7 @@
   🌐 개인 사이트 [everdu.com](https://everdu.com/) <br/>
   
   ✉️ 이메일 kckc0608@naver.com <br/>
-  📑 이력서 [en](https://typst.app/project/rMj3xkB7ewAkmIoYjpdrNf)
+  📑 이력서 [en](./2026-1%20CV%20(2).pdf)
   
   <br/>
 
