@@ -1,13 +1,12 @@
 <div align="left">
-  
+
   ### 안녕하세요 🖐️
   
   🌐 개발 블로그 [Blog. 에버듀](https://chinpa.tistory.com/) <br/>
   🌐 개인 사이트 [everdu.com](https://everdu.com/) <br/>
   
   ✉️ 이메일 kckc0608@naver.com <br/>
-  📑 이력서 [en](./2026-1%20CV%20(2).pdf)
-  
+  📑 이력서 [en](./2026-1%20CV%20(2).pdf) <br/>
   <br/>
 
   #### Work Experience
@@ -47,15 +46,11 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-  <!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
   #### Library & Framework
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  <!-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
-  <!-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)-->
-  <!-- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) -->
 
   #### CI / CD
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
