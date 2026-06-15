@@ -5,8 +5,7 @@
   🌐 개발 블로그 [Blog. 에버듀](https://chinpa.tistory.com/) <br/>
   🌐 개인 사이트 [everdu.com](https://everdu.com/) <br/>
   
-  ✉️ 이메일 kckc0608@naver.com <br/>
-  📑 이력서 [en](./2026-1%20CV%20(2).pdf) <br/>
+  📑 CV [(en)](./2026-1%20CV%20(2).pdf) <br/>
   <br/>
 
   #### Work Experience
@@ -29,9 +28,7 @@
   👨‍🏫 GDSC Hongik 2024-2 초급 백엔드 스터디 멘토 <sub>(2024.09 ~ 2024.12)</sub><br/>
   👨‍🏫 홍익대학교 알고리즘 학회 HI-ARC 2024-2 초급 스터디장 <sub>(2024.09 ~ 2024.12)</sub><br/>
   👨‍🏫 홍익대학교 알고리즘 학회 HI-ARC 2024-1 기초 스터디장 <sub>(2024.03 ~ 2024.05)</sub>   
-  <br/>
 
-  #### Awards
   🏆 2025 홍익대학교 우수 졸업프로젝트 장려상 <sub>2025.11.28</sub><br/>
   🏆 2025 홍익대학교 프로그래밍 경진대회 은상 <sub>2025.09.27</sub><br/>
   🏆 2025 Blaybus MVP 해커톤 챌린저상 <sub>(2025.02.09 ~ 2025.02.20)</sub><br/>
