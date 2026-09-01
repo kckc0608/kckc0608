@@ -8,7 +8,7 @@
   <br/>
 
   #### Work Experience
-  🏢 KIA ICT본부 <sub>(2026.08 ~)</sub><br/>
+  🏢 HMG ICT본부 <sub>(2026.08 ~)</sub><br/>
   🏢 두손씨앤아이 <sub>(인턴, 2025.06 ~ 2025.12)</sub><br/>
   <br/>
 
