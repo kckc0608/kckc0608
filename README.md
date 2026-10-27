@@ -8,7 +8,7 @@
   <br/>
 
   #### Work Experience
-  🏢 HMG ICT본부 <sub>(2026.08 ~)</sub><br/>
+  🏢 현대자동차그룹 ICT본부 <sub>(2026.08 ~)</sub><br/>
   🏢 두손씨앤아이 <sub>(인턴, 2025.06 ~ 2025.12)</sub><br/>
   <br/>
 
@@ -20,9 +20,9 @@
   
   <details>
   <summary>Projects</summary>
-    🖥️ 사회복지사를 위한 요양보호사-어르신 매칭 서비스 '돌봄다리' BE <sub>(2025.02 ~ now)</sub><br/>
     🖥️ 홍익대학교 컴퓨터공학과 밴드학회 큰소리 웹사이트 개발 BE <sub>(2024.12 ~ now)</sub><br/>
     🖥️ GDSC Hongik 개발팀 와우디벨로퍼스 BE <sub>(2024.09 ~ now)</sub><br/>
+    🖥️ 사회복지사를 위한 요양보호사-어르신 매칭 서비스 '돌봄다리' BE <sub>(2025.02 ~ 2026.03)</sub><br/>
     🖥️ 신촌연합 IT창업 동아리 CEOS 19기 'AZITO' BE <sub>(2024.03 ~ 2024.08)</sub><br/>
     🖥️ GDSC Hongik 프로젝트 트랙 1기 '육아품앗이' BE <sub>(2023.10 ~ 2024.02)</sub><br/>
   </details>
